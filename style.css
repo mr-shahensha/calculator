@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-size: 30px;
+    position: relative;
+}
+.nav{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 35px;
+    background-color: teal;
+    color: white;
+}
+table{
+    background-color: wheat;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    right: 35%;
+}
